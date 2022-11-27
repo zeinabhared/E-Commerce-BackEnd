@@ -1,5 +1,5 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "E-Commerce-BackEnd",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/zeinabhared/E-Commerce-BackEnd.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Zeinab Hared",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
